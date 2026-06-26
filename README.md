@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b894)](https://francisgarcia.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00b894)](https://fgarcia06.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b894)](https://linkedin.com/in/fgarcia06)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b894)](mailto:gfrancisfrancis1@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=fgarcia06&label=Profile%20views&color=00b894&style=for-the-badge)
