@@ -15,26 +15,16 @@
 
 Computer Engineering graduate from the **University of Alberta**. I build full-stack mobile apps, write automation tooling, and care a lot about clean architecture. If there's a real problem to solve, I'll pick up whatever tool gets the job done.
 
-> 🍽️ Currently building **[Dinnr](https://github.com/dinnrapp)** — a React Native app for planning and sharing dinners with people you love.
-
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,python,supabase,expo,git,linux,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,python,supabase,git,linux,vscode,figma)](https://skillicons.dev)
 
 </div>
 
-<div align="center">
-
-| Mobile | Backend & DB | Tooling | Other |
-|---|---|---|---|
-| React Native · Expo | Supabase · PostgreSQL | Claude Code · Cursor | NativeWind · Tailwind |
-| TypeScript | REST APIs | pnpm · Git | Python scripting |
-
-</div>
 
 ---
 
